@@ -5,7 +5,7 @@ color: white   #text color
 fa-icon: cube
 style: center
 ---
-Welcome back. You can view your portfolio and recommended advice by logging in your <a href="http://ladcowealth.my-planner.in/adv/ladcowealth.html">*own personalized portal*</a>.
+Welcome back. You can view your portfolio and recommended advice by logging in your <a href="54.83.53.101/moneymanager/">*own personalized portal*</a>.
 
 
 <span class="fa-stack subtlecircle" style="font-size:100px; background:rgba(255,166,0,0.1)">

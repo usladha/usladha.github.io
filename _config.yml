@@ -47,3 +47,6 @@ colors:
   turquoise:
     light: '#0fbfcf'
     dark: '#0fbfcf'
+
+kramdown:
+  auto_ids: false

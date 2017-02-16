@@ -11,8 +11,11 @@ Reach out to us for a free portfolio inspection either on phone: <a href="tel://
 
 
 Head Office Address:
+
 S - 715, Manipal Centre, Dickenson Road, Bangalore - 560042
 
 Branch Office:
+
 No 106, SBT complex, VCTV Main road, Erode - 638001
+
 <i class="fa fa-phone-square text-white">0424 - 4560291

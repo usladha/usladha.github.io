@@ -10,4 +10,5 @@ Reach out to us for a free portfolio inspection either on phone: <a href="tel://
 
 
 
-Office Address: <a href="tel://+918026542121" alt="+918026542121"><i class="fa fa-phone-square text-white"></i>  080-40930091</a> or on email <a href="mailto:care@ladcocrest.com?Subject=Hi, I have an enquiry" target="_top">care@ladcocrest.com</a>. 
+Office Address:
+<a S - 715, Manipal Centre></i>  080-40930091</a> or on email <a href="mailto:care@ladcocrest.com?Subject=Hi, I have an enquiry" target="_top">care@ladcocrest.com</a>. 

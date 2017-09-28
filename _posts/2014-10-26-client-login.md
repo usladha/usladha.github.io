@@ -1,11 +1,12 @@
 ---
-title: "Client Login"
-bg: purple  #defined in _config.yml, can use html color like '#0fbfcf'
-color: white   #text color
+title: Client Login
+bg: purple
+color: white
 fa-icon: cube
 style: center
+published: true
 ---
-Welcome back. You can view your portfolio and recommended advice by logging in your <a href="http://ladcocrest.my-portfolio.co.in">*own personalized portal*</a>.
+Welcome. You can view your portfolio and recommended advice by logging in your <a href="http://ladcocrest.my-portfolio.co.in">*own personalized portal*</a>.
 
 
 <span class="fa-stack subtlecircle" style="font-size:100px; background:rgba(255,166,0,0.1)">
